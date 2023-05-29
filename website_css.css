@@ -40,7 +40,6 @@ sub
 	border-bottom-style:dotted;
 	border-color:RGB(228,230,235);
 	border-width:1px;
-	font-size:30px;
 	height:196px;
 }
 .plsbox
@@ -68,4 +67,13 @@ sub
 {
 	font-size:14px;
 	color:#666;
+}
+.lou
+{
+	border-top-style:solid;
+	border-bottom-style:solid;
+	border-color:RGB(228,230,235);
+	border-width:1px;
+	font-size:14px;
+	padding:9px;
 }
