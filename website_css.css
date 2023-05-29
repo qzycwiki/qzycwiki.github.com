@@ -1,0 +1,57 @@
+body
+{
+	background-color:RGB(237,240,242);
+	margin:0px;
+	font-family:Segoe UI;
+}
+sub
+{
+	font-size:4px;
+}
+.mla
+{
+	text-decoration:none;
+	color:#4051b5;
+}
+.btn
+{
+	background-image:none;
+	border:none;
+	background-color:white;
+	color:RGB(114,114,114);
+	text-align:center;
+	cursor:pointer;
+	font-size:19px;
+}
+.ctntbox
+{
+	background-color:white;
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+	border-width:1px;
+	border-color:RGB(19,19,81);
+	border-radius:11px;
+	box-shadow: 0px 0px 8px 0px rgb(122 122 122 / 10%);
+}
+.outerbox
+{
+	border-style:solid;
+	border-color:RGB(114,45,14);
+	background-color:RGB(240,240,210);
+	border-width:1px;
+	border-radius:19px;
+	font-size:30px;
+	margin-bottom:19px;
+}
+.innerbox
+{
+	float:right;
+	height:40px;
+	border-style:solid;
+	border-color:black;
+	background-color:white;
+	font-size:11px;
+	border-width:1px;
+	border-radius:11px;
+}
