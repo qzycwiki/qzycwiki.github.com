@@ -47,10 +47,10 @@ sub
 	margin-top:16px;
 	margin-left:16px;
 	padding-top:5px;
-	padding-left:15px;
 	width:25px;
 	height:20px;
 	border-style:solid;
+	text-align:center;
 	border-color:RGB(235,235,235);
 	background-color:RGB(247,247,247);
 	font-size:11px;
