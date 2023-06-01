@@ -8,6 +8,10 @@ sub
 {
 	font-size:10px;
 }
+hr
+{
+	color:#999;
+}
 .mla
 {
 	text-decoration:none;
@@ -76,4 +80,27 @@ sub
 	border-width:1px;
 	font-size:14px;
 	padding:9px;
+}
+.ntc
+{
+	border-left-style:solid;
+	border-left-color:RGB(0,184,212);
+	border-left-width:3px;
+	background-color:RGB(229,248,251);
+	box-shadow: 0px 0px 8px 0px rgb(14 14 14 / 10%);
+	width:720px;
+	margin:19px;
+	border-radius:2px;
+	padding-top:9px;
+}
+.inspcbox
+{
+	background-color:white;
+	margin-top:7px;
+	padding:9px;
+}
+.spcboxtt
+{
+	margin-left:11px;
+	font-weight:bold;
 }
