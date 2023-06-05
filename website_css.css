@@ -104,3 +104,10 @@ hr
 	margin-left:11px;
 	font-weight:bold;
 }
+.eggpoint
+{
+	width:1px;
+	height:1px;
+	background-color:rgb(191,191,191);
+	cursor:pointer;
+}
