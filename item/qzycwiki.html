@@ -3,10 +3,14 @@
 		<meta charset="utf-8">
 		<title>QZYC Wiki | 七中育才维基：七中育才维基</title>
 		<link rel="stylesheet" type="text/css" href="../website_css.css">
+		<script src="scrt/egg.js"></script>
+		<script type="text/javascript">
+			var idlist=["genshin"],contentlist=["不玩原神的人，只能度过一个相对失败的人生。"];
+		</script>
 	</head>
 	<body>
 		<div id="header" style="background-color:RGB(255,64,64);height:64px;float:top;font-size:32px;box-shadow:0px 0px 8px 0px rgb(0 0 0 / 20%);">
-		 	<div style="float:left;margin-left:32px;margin-top:11px;font-weight:bold;font-size:30px;"><a style="text-decoration:none;;color:RGB(16,16,32);" href="../">QZYC Wiki</a></div>
+		 	<div style="float:left;margin-left:32px;margin-top:11px;font-weight:bold;font-size:30px;"><a style="text-decoration:none;color:RGB(16,16,32);" href="../">QZYC Wiki</a></div>
 		</div>
 		<div id="page">
 		 	<div style="height:19px;"></div>
@@ -19,6 +23,7 @@
 		 			<p>如果你想添加或修改条目、发帖或者评论帖子，请在邮件中注明目的。如果是评论，请带上链接。</p>
 		 			<p>请注意您的言论，您的邮箱将会被作为用户名使用。当然我们并不提倡开盒的行为。</p>
 		 			<p>更新一般在中午进行，有时也会在晚上进行，所以帖子请注意时效性。</p>
+		 			<p id="genshin"></p>
 		 		</div>
 		 		<div style="height:11px;"></div>
 		 	</div>
@@ -37,9 +42,14 @@
 						</div>
 					</div>
 				</div>
+				<noscript><p>别惦记你那IE了，换个chrome或者firefox吧</p></noscript>
 				<div style="height:19px;"></div>
 			</div>
 		</div>
+		<div class="eggpoint" onclick="eggout(idlist,contentlist)"></div>
 		<div style="height:30px;"></div>
+		<script type="text/javascript">
+			tips();
+		</script>
 	</body>
 </html>
