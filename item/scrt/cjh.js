@@ -1,2 +1,2 @@
-var idlist=["li","pli","sbsengineer","hiddenli"];
-var contentlist=["李 <sub><s>罗</s></sub> 景华","言其……额……总之，我要拍他。","engine有谐音（","<li>你妈你快点嘛！排个这个屁东西要排好久嘛！你妈的都一点半咯！ <sub style=\"font-style:normal;\">某次英语节排练时与别的活动冲突而未被提前告知，急躁时语云</sub></li>"];
+var idlist=["li","pli","sbsengineer","hiddenli","R"];
+var contentlist=["李 <sub><s>罗</s></sub> 景华","言其……额……总之，我要拍他。","engine有谐音（","<li>你妈你快点嘛！排个这个屁东西要排好久嘛！你妈的都一点半咯！ <sub style=\"font-style:normal;\">某次英语节排练时与别的活动冲突而未被提前告知，急躁时语云</sub></li>","前往林荫研学时，某班级落笔时效率低下，XX<s>R</s>主任批评了几句。而陈气愤地在XX<s>R</s>主任说完后骂出此话"];
